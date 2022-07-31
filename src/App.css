@@ -1,0 +1,13 @@
+.App {
+  /* text-align: center; */
+  background-color: rgb(243, 243, 242);
+  height: 100vh;
+}
+
+.App > h1{
+  font-weight: 400;
+  margin: 30px 0;
+  color: rgba(0, 0, 0, 0.648);
+}
+
+
